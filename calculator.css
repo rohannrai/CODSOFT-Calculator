@@ -1,0 +1,25 @@
+.calculator{
+    background-color: black;
+    height: 500px;
+    width: 300px;
+    margin: auto;
+}
+.display{
+    color: white;
+    text-align: right;
+    height: 100px;
+    width: 300px;
+    padding-top: 50px;
+}
+.btns button {
+   border: none;
+   height: 50px;
+   width: 50px;
+   margin: 10px;
+   border-radius: 50%;
+   background-color: rgb(76, 70, 70);
+   color: white;
+}
+#equal{
+    background-color: #fb7c14;
+}
